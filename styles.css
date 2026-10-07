@@ -1,0 +1,17 @@
+body {
+    font-family: serif;
+    font-size: 11px;
+    line-height: 1.05;
+}
+
+.articulo {
+    width: 95%;
+}
+
+h1 {
+    font-size: 56px;
+}
+
+.intro {
+    font-size: 12px;
+}
